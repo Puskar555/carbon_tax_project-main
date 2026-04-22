@@ -1,5 +1,5 @@
 # EBA 3650 — Carbon Tax Revenue Recycling
-**Group 6 | Puskar Acharya, Peien Chen, Qianqian Cui**
+**Group 6 | Puskar Raj Acharya, Peien Chen, Qianqian Cui**
 
 **Research Question:** Which revenue recycling mechanism — universal lump-sum redistribution or targeted compensation — more effectively mitigates the regressive effects of carbon taxation, and what is the associated efficiency cost in terms of aggregate labour supply?
 
